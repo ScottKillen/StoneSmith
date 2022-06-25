@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
 ## [Unreleased]
 ### Added
 - Chisel mod encased large spruce planks
+- colored ping indicators
 
 ## [1.0.0]
 ### Added
