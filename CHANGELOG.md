@@ -7,5 +7,7 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
-- Add Create mod buckets
-- Add Quark mod chests
+## [1.0.0]
+### Added
+- Create mod buckets
+- Quark mod chests
